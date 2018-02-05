@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ModeleXamarin.vues.patrouilleur.SelectionRoutes"
+             
+             xmlns:local="clr-namespace:ModeleXamarin.modeles.patrouilleur.VueModele"
+             Title="{Binding Titre}">
+
+    <!--<ContentPage.BindingContext>
+        <local:SelectionRoutesVueModele />
+    </ContentPage.BindingContext>-->
+
+    <ContentPage.Content>
+        <StackLayout Spacing="0" Margin="20, 0, 20, 10">
+            <Label Text="{Binding SousTitre}" FontSize="60" />
+            <Label Text="Choisissez votre circuit" FontSize="40"/>
+            <Picker x:Name="centres" ItemsSource="{Binding CircuitsDisponibles}" SelectedItem="{Binding CircuitSelectionne}"  Margin="0,0,0,20"/>
+            <Label Text="Choisisez la route de votre patrouille" FontSize="15" />
+            <Picker x:Name="patrouilleur1" ItemsSource="{Binding ItineraireDisponibles}" ItemDisplayBinding="{Binding Affichage}" SelectedItem="{Binding ItineraireSelectionnee}"  Margin="0,0,0,20" IsEnabled="{Binding ItineraireSelectionable}"/>
+            <Button Text="Passer à la selection de l'itinéraire" IsEnabled="{Binding EstValidable}" Command="{Binding Valider}" />
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

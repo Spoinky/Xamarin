@@ -1,0 +1,127 @@
+C:\Users\miche\Desktop\ModeleXamarin\ModeleXamarin\ModeleXamarin\bin\Debug\netstandard2.0\ModeleXamarin.deps.json
+C:\Users\miche\Desktop\ModeleXamarin\ModeleXamarin\ModeleXamarin\bin\Debug\netstandard2.0\ModeleXamarin.dll
+C:\Users\miche\Desktop\ModeleXamarin\ModeleXamarin\ModeleXamarin\bin\Debug\netstandard2.0\ModeleXamarin.pdb
+C:\Users\miche\Desktop\ModeleXamarin\ModeleXamarin\ModeleXamarin\obj\Debug\netstandard2.0\ModeleXamarin.csproj.CoreCompileInputs.cache
+C:\Users\miche\Desktop\ModeleXamarin\ModeleXamarin\ModeleXamarin\obj\Debug\netstandard2.0\ModeleXamarin.App.xaml.g.cs
+C:\Users\miche\Desktop\ModeleXamarin\ModeleXamarin\ModeleXamarin\obj\Debug\netstandard2.0\ModeleXamarin.MainPage.xaml.g.cs
+C:\Users\miche\Desktop\ModeleXamarin\ModeleXamarin\ModeleXamarin\obj\Debug\netstandard2.0\ModeleXamarin.vues.patrouilleur.Erreur.xaml.g.cs
+C:\Users\miche\Desktop\ModeleXamarin\ModeleXamarin\ModeleXamarin\obj\Debug\netstandard2.0\ModeleXamarin.vues.patrouilleur.Identification.xaml.g.cs
+C:\Users\miche\Desktop\ModeleXamarin\ModeleXamarin\ModeleXamarin\obj\Debug\netstandard2.0\ModeleXamarin.AssemblyInfoInputs.cache
+C:\Users\miche\Desktop\ModeleXamarin\ModeleXamarin\ModeleXamarin\obj\Debug\netstandard2.0\ModeleXamarin.AssemblyInfo.cs
+C:\Users\miche\Desktop\ModeleXamarin\ModeleXamarin\ModeleXamarin\obj\Debug\netstandard2.0\ModeleXamarin.dll
+C:\Users\miche\Desktop\ModeleXamarin\ModeleXamarin\ModeleXamarin\obj\Debug\netstandard2.0\ModeleXamarin.pdb
+C:\Users\miche\Desktop\ModeleXamarin\ModeleXamarin\ModeleXamarin\obj\Debug\netstandard2.0\ModeleXamarin.csprojResolveAssemblyReference.cache
+C:\Users\miche\Desktop\ModeleXamarin\ModeleXamarin\ModeleXamarin\obj\Debug\netstandard2.0\ModeleXamarin.vues.patrouilleur.SelectionRoute.xaml.g.cs
+C:\Users\miche\Desktop\ModeleXamarin2\ModeleXamarin\ModeleXamarin\obj\Debug\netstandard2.0\ModeleXamarin.csproj.CoreCompileInputs.cache
+C:\Users\miche\Desktop\ModeleXamarin2\ModeleXamarin\ModeleXamarin\obj\Debug\netstandard2.0\ModeleXamarin.App.xaml.g.cs
+C:\Users\miche\Desktop\ModeleXamarin2\ModeleXamarin\ModeleXamarin\obj\Debug\netstandard2.0\ModeleXamarin.MainPage.xaml.g.cs
+C:\Users\miche\Desktop\ModeleXamarin2\ModeleXamarin\ModeleXamarin\obj\Debug\netstandard2.0\ModeleXamarin.vues.patrouilleur.Erreur.xaml.g.cs
+C:\Users\miche\Desktop\ModeleXamarin2\ModeleXamarin\ModeleXamarin\obj\Debug\netstandard2.0\ModeleXamarin.vues.patrouilleur.Identification.xaml.g.cs
+C:\Users\miche\Desktop\ModeleXamarin2\ModeleXamarin\ModeleXamarin\obj\Debug\netstandard2.0\ModeleXamarin.vues.patrouilleur.SelectionRoute.xaml.g.cs
+C:\Users\miche\Desktop\ModeleXamarin2\ModeleXamarin\ModeleXamarin\obj\Debug\netstandard2.0\ModeleXamarin.AssemblyInfoInputs.cache
+C:\Users\miche\Desktop\ModeleXamarin2\ModeleXamarin\ModeleXamarin\obj\Debug\netstandard2.0\ModeleXamarin.AssemblyInfo.cs
+C:\Users\miche\Desktop\ModeleXamarin2\ModeleXamarin\ModeleXamarin\bin\Debug\netstandard2.0\ModeleXamarin.deps.json
+C:\Users\miche\Desktop\ModeleXamarin2\ModeleXamarin\ModeleXamarin\bin\Debug\netstandard2.0\ModeleXamarin.dll
+C:\Users\miche\Desktop\ModeleXamarin2\ModeleXamarin\ModeleXamarin\bin\Debug\netstandard2.0\ModeleXamarin.pdb
+C:\Users\miche\Desktop\ModeleXamarin2\ModeleXamarin\ModeleXamarin\obj\Debug\netstandard2.0\ModeleXamarin.dll
+C:\Users\miche\Desktop\ModeleXamarin2\ModeleXamarin\ModeleXamarin\obj\Debug\netstandard2.0\ModeleXamarin.pdb
+C:\Users\miche\Desktop\ModeleXamarin2\ModeleXamarin\ModeleXamarin\obj\Debug\netstandard2.0\ModeleXamarin.csprojResolveAssemblyReference.cache
+C:\Users\svc_applis\Desktop\ModeleXamarin - Patrouille\ModeleXamarin\ModeleXamarin\obj\Debug\netstandard2.0\ModeleXamarin.csprojResolveAssemblyReference.cache
+C:\Users\svc_applis\Desktop\ModeleXamarin - Patrouille\ModeleXamarin\ModeleXamarin\obj\Debug\netstandard2.0\ModeleXamarin.csproj.CoreCompileInputs.cache
+C:\Users\svc_applis\Desktop\ModeleXamarin - Patrouille\ModeleXamarin\ModeleXamarin\obj\Debug\netstandard2.0\ModeleXamarin.App.xaml.g.cs
+C:\Users\svc_applis\Desktop\ModeleXamarin - Patrouille\ModeleXamarin\ModeleXamarin\obj\Debug\netstandard2.0\ModeleXamarin.MainPage.xaml.g.cs
+C:\Users\svc_applis\Desktop\ModeleXamarin - Patrouille\ModeleXamarin\ModeleXamarin\obj\Debug\netstandard2.0\ModeleXamarin.vues.patrouilleur.Identification.xaml.g.cs
+C:\Users\svc_applis\Desktop\ModeleXamarin - Patrouille\ModeleXamarin\ModeleXamarin\obj\Debug\netstandard2.0\ModeleXamarin.AssemblyInfoInputs.cache
+C:\Users\svc_applis\Desktop\ModeleXamarin - Patrouille\ModeleXamarin\ModeleXamarin\obj\Debug\netstandard2.0\ModeleXamarin.AssemblyInfo.cs
+C:\Users\svc_applis\Desktop\ModeleXamarin - Patrouille\ModeleXamarin\ModeleXamarin\obj\Debug\netstandard2.0\ModeleXamarin.dll
+C:\Users\svc_applis\Desktop\ModeleXamarin - Patrouille\ModeleXamarin\ModeleXamarin\obj\Debug\netstandard2.0\ModeleXamarin.pdb
+C:\Users\svc_applis\Desktop\ModeleXamarin - Patrouille\ModeleXamarin\ModeleXamarin\bin\Debug\netstandard2.0\ModeleXamarin.deps.json
+C:\Users\svc_applis\Desktop\ModeleXamarin - Patrouille\ModeleXamarin\ModeleXamarin\bin\Debug\netstandard2.0\ModeleXamarin.dll
+C:\Users\svc_applis\Desktop\ModeleXamarin - Patrouille\ModeleXamarin\ModeleXamarin\bin\Debug\netstandard2.0\ModeleXamarin.pdb
+C:\Users\svc_applis\source\repos\ModeleXamarin - 3\ModeleXamarin\ModeleXamarin\bin\Debug\netstandard2.0\ModeleXamarin.deps.json
+C:\Users\svc_applis\source\repos\ModeleXamarin - 3\ModeleXamarin\ModeleXamarin\bin\Debug\netstandard2.0\ModeleXamarin.dll
+C:\Users\svc_applis\source\repos\ModeleXamarin - 3\ModeleXamarin\ModeleXamarin\bin\Debug\netstandard2.0\ModeleXamarin.pdb
+C:\Users\svc_applis\source\repos\ModeleXamarin - 3\ModeleXamarin\ModeleXamarin\obj\Debug\netstandard2.0\ModeleXamarin.csproj.CoreCompileInputs.cache
+C:\Users\svc_applis\source\repos\ModeleXamarin - 3\ModeleXamarin\ModeleXamarin\obj\Debug\netstandard2.0\ModeleXamarin.App.xaml.g.cs
+C:\Users\svc_applis\source\repos\ModeleXamarin - 3\ModeleXamarin\ModeleXamarin\obj\Debug\netstandard2.0\ModeleXamarin.MainPage.xaml.g.cs
+C:\Users\svc_applis\source\repos\ModeleXamarin - 3\ModeleXamarin\ModeleXamarin\obj\Debug\netstandard2.0\ModeleXamarin.vues.patrouilleur.EtatPatrouillage.xaml.g.cs
+C:\Users\svc_applis\source\repos\ModeleXamarin - 3\ModeleXamarin\ModeleXamarin\obj\Debug\netstandard2.0\ModeleXamarin.vues.patrouilleur.Identification.xaml.g.cs
+C:\Users\svc_applis\source\repos\ModeleXamarin - 3\ModeleXamarin\ModeleXamarin\obj\Debug\netstandard2.0\ModeleXamarin.vues.patrouilleur.SelectionRoutes.xaml.g.cs
+C:\Users\svc_applis\source\repos\ModeleXamarin - 3\ModeleXamarin\ModeleXamarin\obj\Debug\netstandard2.0\ModeleXamarin.AssemblyInfoInputs.cache
+C:\Users\svc_applis\source\repos\ModeleXamarin - 3\ModeleXamarin\ModeleXamarin\obj\Debug\netstandard2.0\ModeleXamarin.AssemblyInfo.cs
+C:\Users\svc_applis\source\repos\ModeleXamarin - 3\ModeleXamarin\ModeleXamarin\obj\Debug\netstandard2.0\ModeleXamarin.dll
+C:\Users\svc_applis\source\repos\ModeleXamarin - 3\ModeleXamarin\ModeleXamarin\obj\Debug\netstandard2.0\ModeleXamarin.pdb
+C:\Users\svc_applis\source\repos\ModeleXamarin - 3\ModeleXamarin\ModeleXamarin\obj\Debug\netstandard2.0\ModeleXamarin.csprojResolveAssemblyReference.cache
+C:\Users\svc_applis\Desktop\ModeleXamarin - fusion\ModeleXamarin\ModeleXamarin\bin\Debug\netstandard2.0\ModeleXamarin.deps.json
+C:\Users\svc_applis\Desktop\ModeleXamarin - fusion\ModeleXamarin\ModeleXamarin\bin\Debug\netstandard2.0\ModeleXamarin.dll
+C:\Users\svc_applis\Desktop\ModeleXamarin - fusion\ModeleXamarin\ModeleXamarin\bin\Debug\netstandard2.0\ModeleXamarin.pdb
+C:\Users\svc_applis\Desktop\ModeleXamarin - fusion\ModeleXamarin\ModeleXamarin\obj\Debug\netstandard2.0\ModeleXamarin.csprojResolveAssemblyReference.cache
+C:\Users\svc_applis\Desktop\ModeleXamarin - fusion\ModeleXamarin\ModeleXamarin\obj\Debug\netstandard2.0\ModeleXamarin.csproj.CoreCompileInputs.cache
+C:\Users\svc_applis\Desktop\ModeleXamarin - fusion\ModeleXamarin\ModeleXamarin\obj\Debug\netstandard2.0\ModeleXamarin.App.xaml.g.cs
+C:\Users\svc_applis\Desktop\ModeleXamarin - fusion\ModeleXamarin\ModeleXamarin\obj\Debug\netstandard2.0\ModeleXamarin.MainPage.xaml.g.cs
+C:\Users\svc_applis\Desktop\ModeleXamarin - fusion\ModeleXamarin\ModeleXamarin\obj\Debug\netstandard2.0\ModeleXamarin.vues.patrouilleur.EtatPatrouillage.xaml.g.cs
+C:\Users\svc_applis\Desktop\ModeleXamarin - fusion\ModeleXamarin\ModeleXamarin\obj\Debug\netstandard2.0\ModeleXamarin.vues.patrouilleur.Identification.xaml.g.cs
+C:\Users\svc_applis\Desktop\ModeleXamarin - fusion\ModeleXamarin\ModeleXamarin\obj\Debug\netstandard2.0\ModeleXamarin.vues.patrouilleur.SelectionRoutes.xaml.g.cs
+C:\Users\svc_applis\Desktop\ModeleXamarin - fusion\ModeleXamarin\ModeleXamarin\obj\Debug\netstandard2.0\ModeleXamarin.AssemblyInfoInputs.cache
+C:\Users\svc_applis\Desktop\ModeleXamarin - fusion\ModeleXamarin\ModeleXamarin\obj\Debug\netstandard2.0\ModeleXamarin.AssemblyInfo.cs
+C:\Users\svc_applis\Desktop\ModeleXamarin - fusion\ModeleXamarin\ModeleXamarin\obj\Debug\netstandard2.0\ModeleXamarin.dll
+C:\Users\svc_applis\Desktop\ModeleXamarin - fusion\ModeleXamarin\ModeleXamarin\obj\Debug\netstandard2.0\ModeleXamarin.pdb
+C:\Users\svc_applis\Desktop\ModeleXamarin - fusion\ModeleXamarin\ModeleXamarin\obj\Debug\netstandard2.0\ModeleXamarin.vues.patrouilleur.EvenementPatrouillage.xaml.g.cs
+C:\Users\miche\Desktop\Patrouilleur\ModeleXamarin\ModeleXamarin\obj\Debug\netstandard2.0\ModeleXamarin.csproj.CoreCompileInputs.cache
+C:\Users\miche\Desktop\Patrouilleur\ModeleXamarin\ModeleXamarin\obj\Debug\netstandard2.0\ModeleXamarin.App.xaml.g.cs
+C:\Users\miche\Desktop\Patrouilleur\ModeleXamarin\ModeleXamarin\obj\Debug\netstandard2.0\ModeleXamarin.MainPage.xaml.g.cs
+C:\Users\miche\Desktop\Patrouilleur\ModeleXamarin\ModeleXamarin\obj\Debug\netstandard2.0\ModeleXamarin.vues.patrouilleur.EtatPatrouillage.xaml.g.cs
+C:\Users\miche\Desktop\Patrouilleur\ModeleXamarin\ModeleXamarin\obj\Debug\netstandard2.0\ModeleXamarin.vues.patrouilleur.EvenementPatrouillage.xaml.g.cs
+C:\Users\miche\Desktop\Patrouilleur\ModeleXamarin\ModeleXamarin\obj\Debug\netstandard2.0\ModeleXamarin.vues.patrouilleur.Identification.xaml.g.cs
+C:\Users\miche\Desktop\Patrouilleur\ModeleXamarin\ModeleXamarin\obj\Debug\netstandard2.0\ModeleXamarin.vues.patrouilleur.SelectionRoutes.xaml.g.cs
+C:\Users\miche\Desktop\Patrouilleur\ModeleXamarin\ModeleXamarin\obj\Debug\netstandard2.0\ModeleXamarin.AssemblyInfoInputs.cache
+C:\Users\miche\Desktop\Patrouilleur\ModeleXamarin\ModeleXamarin\obj\Debug\netstandard2.0\ModeleXamarin.AssemblyInfo.cs
+C:\Users\miche\Desktop\Patrouilleur\ModeleXamarin\ModeleXamarin\obj\Debug\netstandard2.0\ModeleXamarin.dll
+C:\Users\miche\Desktop\Patrouilleur\ModeleXamarin\ModeleXamarin\obj\Debug\netstandard2.0\ModeleXamarin.pdb
+C:\Users\miche\Desktop\Patrouilleur\ModeleXamarin\ModeleXamarin\bin\Debug\netstandard2.0\ModeleXamarin.deps.json
+C:\Users\miche\Desktop\Patrouilleur\ModeleXamarin\ModeleXamarin\bin\Debug\netstandard2.0\ModeleXamarin.dll
+C:\Users\miche\Desktop\Patrouilleur\ModeleXamarin\ModeleXamarin\bin\Debug\netstandard2.0\ModeleXamarin.pdb
+C:\Departement77\Développements\Mobilité\Patrouilleur\ModeleXamarin\ModeleXamarin\obj\Debug\netstandard2.0\ModeleXamarin.csproj.CoreCompileInputs.cache
+C:\Departement77\Développements\Mobilité\Patrouilleur\ModeleXamarin\ModeleXamarin\obj\Debug\netstandard2.0\ModeleXamarin.App.xaml.g.cs
+C:\Departement77\Développements\Mobilité\Patrouilleur\ModeleXamarin\ModeleXamarin\obj\Debug\netstandard2.0\ModeleXamarin.MainPage.xaml.g.cs
+C:\Departement77\Développements\Mobilité\Patrouilleur\ModeleXamarin\ModeleXamarin\obj\Debug\netstandard2.0\ModeleXamarin.vues.patrouilleur.EtatPatrouillage.xaml.g.cs
+C:\Departement77\Développements\Mobilité\Patrouilleur\ModeleXamarin\ModeleXamarin\obj\Debug\netstandard2.0\ModeleXamarin.vues.patrouilleur.EvenementPatrouillage.xaml.g.cs
+C:\Departement77\Développements\Mobilité\Patrouilleur\ModeleXamarin\ModeleXamarin\obj\Debug\netstandard2.0\ModeleXamarin.vues.patrouilleur.Identification.xaml.g.cs
+C:\Departement77\Développements\Mobilité\Patrouilleur\ModeleXamarin\ModeleXamarin\obj\Debug\netstandard2.0\ModeleXamarin.vues.patrouilleur.SelectionRoutes.xaml.g.cs
+C:\Departement77\Développements\Mobilité\Patrouilleur\ModeleXamarin\ModeleXamarin\obj\Debug\netstandard2.0\ModeleXamarin.AssemblyInfoInputs.cache
+C:\Departement77\Développements\Mobilité\Patrouilleur\ModeleXamarin\ModeleXamarin\obj\Debug\netstandard2.0\ModeleXamarin.AssemblyInfo.cs
+C:\Departement77\Développements\Mobilité\Patrouilleur\ModeleXamarin\ModeleXamarin\obj\Debug\netstandard2.0\ModeleXamarin.dll
+C:\Departement77\Développements\Mobilité\Patrouilleur\ModeleXamarin\ModeleXamarin\obj\Debug\netstandard2.0\ModeleXamarin.pdb
+C:\Departement77\Développements\Mobilité\Patrouilleur\ModeleXamarin\ModeleXamarin\bin\Debug\netstandard2.0\ModeleXamarin.deps.json
+C:\Departement77\Développements\Mobilité\Patrouilleur\ModeleXamarin\ModeleXamarin\bin\Debug\netstandard2.0\ModeleXamarin.dll
+C:\Departement77\Développements\Mobilité\Patrouilleur\ModeleXamarin\ModeleXamarin\bin\Debug\netstandard2.0\ModeleXamarin.pdb
+C:\Users\svc_applis\Desktop\Patrouilleur\ModeleXamarin\ModeleXamarin\bin\Debug\netstandard2.0\ModeleXamarin.deps.json
+C:\Users\svc_applis\Desktop\Patrouilleur\ModeleXamarin\ModeleXamarin\bin\Debug\netstandard2.0\ModeleXamarin.dll
+C:\Users\svc_applis\Desktop\Patrouilleur\ModeleXamarin\ModeleXamarin\bin\Debug\netstandard2.0\ModeleXamarin.pdb
+C:\Users\svc_applis\Desktop\Patrouilleur\ModeleXamarin\ModeleXamarin\obj\Debug\netstandard2.0\ModeleXamarin.csproj.CoreCompileInputs.cache
+C:\Users\svc_applis\Desktop\Patrouilleur\ModeleXamarin\ModeleXamarin\obj\Debug\netstandard2.0\ModeleXamarin.App.xaml.g.cs
+C:\Users\svc_applis\Desktop\Patrouilleur\ModeleXamarin\ModeleXamarin\obj\Debug\netstandard2.0\ModeleXamarin.MainPage.xaml.g.cs
+C:\Users\svc_applis\Desktop\Patrouilleur\ModeleXamarin\ModeleXamarin\obj\Debug\netstandard2.0\ModeleXamarin.vues.patrouilleur.EtatPatrouillage.xaml.g.cs
+C:\Users\svc_applis\Desktop\Patrouilleur\ModeleXamarin\ModeleXamarin\obj\Debug\netstandard2.0\ModeleXamarin.vues.patrouilleur.EvenementPatrouillage.xaml.g.cs
+C:\Users\svc_applis\Desktop\Patrouilleur\ModeleXamarin\ModeleXamarin\obj\Debug\netstandard2.0\ModeleXamarin.vues.patrouilleur.Identification.xaml.g.cs
+C:\Users\svc_applis\Desktop\Patrouilleur\ModeleXamarin\ModeleXamarin\obj\Debug\netstandard2.0\ModeleXamarin.vues.patrouilleur.SelectionRoutes.xaml.g.cs
+C:\Users\svc_applis\Desktop\Patrouilleur\ModeleXamarin\ModeleXamarin\obj\Debug\netstandard2.0\ModeleXamarin.AssemblyInfoInputs.cache
+C:\Users\svc_applis\Desktop\Patrouilleur\ModeleXamarin\ModeleXamarin\obj\Debug\netstandard2.0\ModeleXamarin.AssemblyInfo.cs
+C:\Users\svc_applis\Desktop\Patrouilleur\ModeleXamarin\ModeleXamarin\obj\Debug\netstandard2.0\ModeleXamarin.dll
+C:\Users\svc_applis\Desktop\Patrouilleur\ModeleXamarin\ModeleXamarin\obj\Debug\netstandard2.0\ModeleXamarin.pdb
+C:\Users\svc_applis\Desktop\Patrouilleur\ModeleXamarin\ModeleXamarin\obj\Debug\netstandard2.0\ModeleXamarin.csprojResolveAssemblyReference.cache
+C:\Users\svc_applis\Desktop\Patrouilleur V1.0\ModeleXamarin\ModeleXamarin\bin\Debug\netstandard2.0\ModeleXamarin.deps.json
+C:\Users\svc_applis\Desktop\Patrouilleur V1.0\ModeleXamarin\ModeleXamarin\bin\Debug\netstandard2.0\ModeleXamarin.dll
+C:\Users\svc_applis\Desktop\Patrouilleur V1.0\ModeleXamarin\ModeleXamarin\bin\Debug\netstandard2.0\ModeleXamarin.pdb
+C:\Users\svc_applis\Desktop\Patrouilleur V1.0\ModeleXamarin\ModeleXamarin\obj\Debug\netstandard2.0\ModeleXamarin.csprojResolveAssemblyReference.cache
+C:\Users\svc_applis\Desktop\Patrouilleur V1.0\ModeleXamarin\ModeleXamarin\obj\Debug\netstandard2.0\ModeleXamarin.csproj.CoreCompileInputs.cache
+C:\Users\svc_applis\Desktop\Patrouilleur V1.0\ModeleXamarin\ModeleXamarin\obj\Debug\netstandard2.0\ModeleXamarin.App.xaml.g.cs
+C:\Users\svc_applis\Desktop\Patrouilleur V1.0\ModeleXamarin\ModeleXamarin\obj\Debug\netstandard2.0\ModeleXamarin.MainPage.xaml.g.cs
+C:\Users\svc_applis\Desktop\Patrouilleur V1.0\ModeleXamarin\ModeleXamarin\obj\Debug\netstandard2.0\ModeleXamarin.vues.patrouilleur.EtatPatrouillage.xaml.g.cs
+C:\Users\svc_applis\Desktop\Patrouilleur V1.0\ModeleXamarin\ModeleXamarin\obj\Debug\netstandard2.0\ModeleXamarin.vues.patrouilleur.EvenementPatrouillage.xaml.g.cs
+C:\Users\svc_applis\Desktop\Patrouilleur V1.0\ModeleXamarin\ModeleXamarin\obj\Debug\netstandard2.0\ModeleXamarin.vues.patrouilleur.Identification.xaml.g.cs
+C:\Users\svc_applis\Desktop\Patrouilleur V1.0\ModeleXamarin\ModeleXamarin\obj\Debug\netstandard2.0\ModeleXamarin.vues.patrouilleur.SelectionRoutes.xaml.g.cs
+C:\Users\svc_applis\Desktop\Patrouilleur V1.0\ModeleXamarin\ModeleXamarin\obj\Debug\netstandard2.0\ModeleXamarin.AssemblyInfoInputs.cache
+C:\Users\svc_applis\Desktop\Patrouilleur V1.0\ModeleXamarin\ModeleXamarin\obj\Debug\netstandard2.0\ModeleXamarin.AssemblyInfo.cs
+C:\Users\svc_applis\Desktop\Patrouilleur V1.0\ModeleXamarin\ModeleXamarin\obj\Debug\netstandard2.0\ModeleXamarin.dll
+C:\Users\svc_applis\Desktop\Patrouilleur V1.0\ModeleXamarin\ModeleXamarin\obj\Debug\netstandard2.0\ModeleXamarin.pdb

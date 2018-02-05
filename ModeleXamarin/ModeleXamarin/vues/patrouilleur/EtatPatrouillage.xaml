@@ -1,0 +1,127 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ModeleXamarin.vues.patrouilleur.EtatPatrouillage"
+             xmlns:local="clr-namespace:ModeleXamarin.modeles.patrouilleur.VueModele"
+             Title ="{Binding Titre}" >
+
+    <ContentPage.Content>
+        <StackLayout Spacing="0" Margin="20, 10, 20, 10">
+
+            <Grid>
+
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="50"/>
+                    <RowDefinition Height="50"/>
+                    <RowDefinition Height="50"/>
+                    <RowDefinition Height="200"/>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*" />
+                </Grid.ColumnDefinitions>
+
+                <!-- Première ligne : Une grid -->
+                <Grid Grid.Row="0" Grid.Column="0">
+
+                    <!-- Définition d'une novelle grid -->
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="50" />
+                    </Grid.RowDefinitions>
+
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*" />
+                        <ColumnDefinition Width="*" />
+                        <ColumnDefinition Width="*" />
+                        <ColumnDefinition Width="*" />
+                        <ColumnDefinition Width="*" />
+                    </Grid.ColumnDefinitions>
+
+                    <BoxView Grid.Column="0" Grid.Row="0" BackgroundColor="#04B431" />
+
+                    <Label Text="Structurant 1" Grid.Row="0" Grid.Column="0" HorizontalOptions="Center" VerticalOptions="Center" TextColor="White" />
+                    <Label Text="{Binding Itineraire.Nom}" Grid.Row="0" Grid.Column="1" HorizontalOptions="Center" VerticalOptions="Center" />
+                    <Label Text="{Binding Itineraire.Abscisse1, StringFormat='PR début : {0}'}" Grid.Row="0" Grid.Column="2" HorizontalOptions="Center" VerticalOptions="Center" />
+                    <Label Text="{Binding Itineraire.Abscisse2, StringFormat='PR fin : {0}'}" Grid.Row="0" Grid.Column="3" HorizontalOptions="Center" VerticalOptions="Center" />
+                    <Label Text="{Binding Date}" Grid.Row="0" Grid.Column="4" HorizontalOptions="Center" VerticalOptions="Center" />
+
+
+                </Grid>
+
+                <!--2nd ligne-->
+                <Button Text="Création fiche événement" Grid.Row="1" Grid.Column="0" Command="{Binding CreerEvenement}" IsEnabled="{Binding EstEnPause}" />
+
+                <BoxView Grid.Row="2" Grid.Column="0" BackgroundColor="#04B431"/>
+                <!--3ème ligne-->
+                <Label Text="Suivi des fiches événements" Grid.Row="2" Grid.Column="0" HorizontalOptions="Center" VerticalOptions="Center" TextColor="White" />
+
+                <!-- 4ème ligne -->
+                <Grid BackgroundColor="White" Grid.Row="3" Grid.Column="0" >
+
+                    <BoxView BackgroundColor="Black" />
+
+                    <ListView ItemsSource="{Binding Messages.Elements}" HeightRequest="300" Margin="1" BackgroundColor="White" >
+                        <ListView.ItemTemplate>
+                            <DataTemplate>
+                                <ViewCell>
+                                    <Label Text="{Binding Message}" Margin="10, 5, 10, 5" />
+                                </ViewCell>
+                            </DataTemplate>
+                        </ListView.ItemTemplate>
+                    </ListView>
+
+                </Grid>
+
+                <!--5ème ligne-->
+                <Grid Grid.Row="4" Grid.Column="0" >
+
+                    <!--Définitions-->
+                    <!-- Définition lignes -->
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="50" />
+                        <RowDefinition Height="50" />
+                    </Grid.RowDefinitions>
+
+                    <!-- Définition colonnes -->
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*" />
+                        <ColumnDefinition Width="*" />
+                        <ColumnDefinition Width="*" />
+                    </Grid.ColumnDefinitions>
+
+                    <!-- Définition contenu -->
+                    <Button Text="Arrêt de la patrouille" Command="{Binding ArretPatrouille}" Grid.Row="0" Grid.Column="0" IsEnabled="{Binding EstEnPause}" />
+                    <Button Text="Reprise de la patrouille" Command="{Binding ReprisePatrouille}" Grid.Row="0" Grid.Column="2" IsEnabled="{Binding PeutReprendre}" />
+
+                    <Button Text="Retour" Command="{Binding PagePrecedente}" Grid.Row="1" Grid.Column="0" IsEnabled="{Binding EstEnPause}"  />
+                    <Button Text="Fin de l'itinèraire" Command="{Binding FinItineraire}" Grid.Row="1" Grid.Column="2" IsEnabled="{Binding EstEnPause}" />
+
+                </Grid>
+
+                <!--6ème ligne-->
+                <!-- Première ligne : Une grid -->
+                <Grid Grid.Row="5" Grid.Column="0">
+
+                    <!-- Définition d'une novelle grid -->
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="50" />
+                    </Grid.RowDefinitions>
+
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*" />
+                        <ColumnDefinition Width="*" />
+                        <ColumnDefinition Width="*" />
+                        <ColumnDefinition Width="*" />
+                        <ColumnDefinition Width="*" />
+                    </Grid.ColumnDefinitions>
+
+                    <BoxView Grid.Column="0" Grid.Row="0" BackgroundColor="#04B431" />
+                    <Label Text="{Binding Heure}" Grid.Row="0" Grid.Column="0" HorizontalOptions="Center" VerticalOptions="Center" TextColor="White" />
+                </Grid>
+
+            </Grid>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

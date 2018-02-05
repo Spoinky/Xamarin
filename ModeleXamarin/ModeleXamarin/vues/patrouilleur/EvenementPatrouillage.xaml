@@ -1,0 +1,313 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ModeleXamarin.vues.patrouilleur.EvenementPatrouillage"
+             xmlns:local="clr-namespace:ModeleXamarin.modeles.patrouilleur.VueModele"
+             Title ="{Binding Titre}">
+
+    <ContentPage.Content>
+        <ScrollView>
+
+            <StackLayout Spacing="0" Margin="20, 10, 20, 10">
+
+            <!-- Grid conteneur --><!--
+            <Grid>
+
+                --><!-- Définition des lignes de la grille. --><!--
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="*" />
+                    <RowDefinition Height="*" />
+                    <RowDefinition Height="*" />
+                    <RowDefinition Height="*" />
+                </Grid.RowDefinitions>
+
+                --><!-- Définition des colonnes de la grille --><!--
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*" />
+                </Grid.ColumnDefinitions>
+
+
+                --><!-- Première ligne --><!--
+                <Grid Grid.Row="0" Grid.Column="0">
+
+                    --><!-- Définition des ligne de la grille. --><!--
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="50" />
+                    </Grid.RowDefinitions>
+
+                    --><!-- Défintion des colonnes de la grille. --><!--
+                    <Grid.ColumnDefinitions >
+                        <ColumnDefinition Width="*" />
+                        <ColumnDefinition Width="*" />
+                        <ColumnDefinition Width="*" />
+                        <ColumnDefinition Width="*" />
+                        <ColumnDefinition Width="*" />
+                        <ColumnDefinition Width="*" />
+                    </Grid.ColumnDefinitions>
+
+                    <BoxView Grid.Row="0" Grid.Column="0" BackgroundColor="#D8D8D8"  />
+                    <BoxView Grid.Row="0" Grid.Column="1" BackgroundColor="#D8D8D8"  />
+                    <BoxView Grid.Row="0" Grid.Column="2" BackgroundColor="#D8D8D8"  />
+                    <BoxView Grid.Row="0" Grid.Column="3" BackgroundColor="#D8D8D8"  />
+                    <BoxView Grid.Row="0" Grid.Column="4" BackgroundColor="#D8D8D8"  />
+                    <BoxView Grid.Row="0" Grid.Column="5" BackgroundColor="#D8D8D8"  />
+                    
+                    <Label Grid.Row="0" Grid.Column="0" Text="{Binding Identifiant, StringFormat='N°{0}'}"  HorizontalOptions="Center" VerticalOptions="Center" />
+                    <Label Grid.Row="0" Grid.Column="1"  Text="{Binding Itineraire.Nom, StringFormat='Route {0}'}"  HorizontalOptions="Center" VerticalOptions="Center" />
+                    <Label Grid.Row="0" Grid.Column="2" Text="{Binding DateDebutFiche}"  HorizontalOptions="Center" VerticalOptions="Center"/>
+                    <Label Grid.Row="0" Grid.Column="3" Text="{Binding HeureDebutFiche}"  HorizontalOptions="Center" VerticalOptions="Center" />
+                    <Entry Grid.Row="0" Grid.Column="4" Text="{Binding Abscisse11}" Placeholder="PR depart X" HorizontalOptions="Center" VerticalOptions="Center" />
+                    <Entry Grid.Row="0" Grid.Column="5" Text="{Binding Abscisse12}" Placeholder="PR depart Y" HorizontalOptions="Center" VerticalOptions="Center"/>
+
+                </Grid>
+
+                 --><!--Seconde ligne--><!-- 
+                <Grid Grid.Row="1" Grid.Column="0" >
+
+                     --><!--Définition des ligne de la grille.--><!-- 
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="*" />
+                    </Grid.RowDefinitions>
+
+                     --><!--Défintion des colonnes de la grille.--><!-- 
+                    <Grid.ColumnDefinitions >
+                        <ColumnDefinition Width="*" />
+                        <ColumnDefinition Width="*" />
+                        <ColumnDefinition Width="*" />
+                        <ColumnDefinition Width="*" />
+                        <ColumnDefinition Width="*" />
+                        <ColumnDefinition Width="*" />
+                    </Grid.ColumnDefinitions>
+
+                    <BoxView Grid.Row="0" Grid.Column="0" BackgroundColor="#04B431"  />
+                    <BoxView Grid.Row="0" Grid.Column="1" BackgroundColor="White"  />
+                    <BoxView Grid.Row="0" Grid.Column="2" BackgroundColor="White"  />
+                    <BoxView Grid.Row="0" Grid.Column="3" BackgroundColor="White"  />
+                    <BoxView Grid.Row="0" Grid.Column="4" BackgroundColor="#04B431"  />
+                    <BoxView Grid.Row="0" Grid.Column="5" BackgroundColor="#04B431"  />
+
+                    <StackLayout Grid.Row="0" Grid.Column="0" Margin="0, 5, 0, 0">
+                        <Label Text="{Binding Patrouilleur1.NomPrenom}" HorizontalOptions="Center" VerticalOptions="Center" />
+                        <Label Text="{Binding Patrouilleur2.NomPrenom}" HorizontalOptions="Center" VerticalOptions="Center" />
+                    </StackLayout>
+
+                    <Picker Grid.Row="0" Grid.Column="1" ItemsSource="{Binding ObtenirMeteo}"  Title="Météo" HorizontalOptions="Center" VerticalOptions="Center" MinimumWidthRequest="100" />
+                    <Picker Grid.Row="0" Grid.Column="2" ItemsSource="{Binding ObtenirAglomeration}" Title="Lieu" HorizontalOptions="Center" VerticalOptions="Center" MinimumWidthRequest="50" />
+
+                    <Grid Grid.Row="0" Grid.Column="3">
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="*" />
+                            <RowDefinition Height="*" />
+                        </Grid.RowDefinitions>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="*" />
+                        </Grid.ColumnDefinitions>
+
+                        <Label Text="Evènement Section" Grid.Row="0" Grid.Column="0" FontSize="15" HorizontalTextAlignment="Center" VerticalTextAlignment="Center"/>
+                        <Switch IsToggled="{Binding EstUneSectionSelectionne}" Grid.Row="1" Grid.Column="0" HorizontalOptions="Center" VerticalOptions="Center"/>
+                        
+                    </Grid>
+
+                    --><!--<Label Grid.Row="0" Grid.Column="3" Text="{Binding DateDebutFiche }" TextColor="White" HorizontalOptions="Center" VerticalOptions="Center"/>
+                    <Label Grid.Row="0" Grid.Column="3" Text="{Binding HeureDebutFiche }" TextColor="White" HorizontalOptions="Center" VerticalOptions="Center" />--><!--
+
+                    <Entry Grid.Row="0" Grid.Column="4" Text="{Binding Abscisse21}" Placeholder="PR arrivé X" HorizontalOptions="Center" VerticalOptions="Center" IsEnabled="{Binding EstUneSectionSelectionne}" />
+                    <Entry Grid.Row="0" Grid.Column="5" Text="{Binding Abscisse22}" Placeholder="PR arrivé Y" HorizontalOptions="Center" VerticalOptions="Center" IsEnabled="{Binding EstUneSectionSelectionne}" />
+                </Grid>
+
+                 --><!--Troisième ligne --><!--
+                <Grid Grid.Row="2" Grid.Column="0">
+
+                    --><!--Définition des ligne de la grille.--><!--
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="*" />
+                        <RowDefinition Height="*" />
+                    </Grid.RowDefinitions>
+
+                    --><!--Défintion des colonnes de la grille.--><!--
+                    <Grid.ColumnDefinitions >
+                        <ColumnDefinition Width="*" />
+                        <ColumnDefinition Width="*" />
+                        <ColumnDefinition Width="*" />
+                        <ColumnDefinition Width="*" />
+                    </Grid.ColumnDefinitions>
+
+                    <Label Grid.Row="0" Grid.Column="0" Text="Emplacement" HorizontalOptions="Center" VerticalOptions="Center" />
+                    <Label Grid.Row="0" Grid.Column="1" Text="Type d'évènement" HorizontalOptions="Center" VerticalOptions="Center" />
+                    <Label Grid.Row="0" Grid.Column="2" Text="Dégradation" HorizontalOptions="Center" VerticalOptions="Center"/>
+                    <Label Grid.Row="0" Grid.Column="3" Text="Action" HorizontalOptions="Center" VerticalOptions="Center" />
+
+                    <Picker Grid.Row="1" Grid.Column="0" ItemsSource="{Binding ObtenirEmplacement}" SelectedItem="{Binding EmplacementSelectionne}" HorizontalOptions="Center" VerticalOptions="Center" />
+                    <Picker Grid.Row="1" Grid.Column="1" ItemsSource="{Binding ObtenirTypeEvenement}" SelectedItem="{Binding EvenementTypeSelectionne}" HorizontalOptions="Center" VerticalOptions="Center" />
+                    <Picker Grid.Row="1" Grid.Column="2" ItemsSource="{Binding ObtenirDegradationEvenement}" IsEnabled="{Binding DegradationEvenementSelectionnable}" HorizontalOptions="Center" VerticalOptions="Center" />
+                    <Picker Grid.Row="1" Grid.Column="3" ItemsSource="{Binding ObtenirLesActions}" Title="Action" HorizontalOptions="Center" VerticalOptions="Center" />
+
+                </Grid>
+
+
+            </Grid>-->
+
+
+            <Label Text="{Binding SousTitre}" FontSize="60" />
+
+                <Grid BackgroundColor="LightGray">
+
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="20"/>
+                        <RowDefinition Height="20"/>
+                        <RowDefinition Height="20"/>
+                        <RowDefinition Height="20"/>
+                    </Grid.RowDefinitions>
+
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="*"/>
+                    </Grid.ColumnDefinitions>
+
+                    <Label Text="Fiche n° " Grid.Row="0" Grid.Column="0" HorizontalTextAlignment="Center" VerticalTextAlignment="Center"/>
+                    <Label Text="Route" Grid.Row="0" Grid.Column="1" HorizontalTextAlignment="Center" VerticalTextAlignment="Center"/>
+                    <Label Text="Date" Grid.Row="0" Grid.Column="2" HorizontalTextAlignment="Center" VerticalTextAlignment="Center"/>
+                    <Label Text="Heure de debut" Grid.Row="0" Grid.Column="3" HorizontalTextAlignment="Center" VerticalTextAlignment="Center"/>
+
+                    <Label Text="{Binding NumeroFiche}" Grid.Row="1" Grid.Column="0" HorizontalTextAlignment="Center" VerticalTextAlignment="Center"/>
+                    <Label Text="{Binding NomRoute}" Grid.Row="1" Grid.Column="1" HorizontalTextAlignment="Center" VerticalTextAlignment="Center"/>
+                    <Label Text="{Binding AffichageDate}" Grid.Row="1" Grid.Column="2" HorizontalTextAlignment="Center" VerticalTextAlignment="Center"/>
+                    <Label Text="{Binding AffichageHeureDebut}" Grid.Row="1" Grid.Column="3" HorizontalTextAlignment="Center" VerticalTextAlignment="Center"/>
+
+                    <Label Text="{Binding NomPatrouilleur1}" Grid.Row="2" Grid.Column="0" HorizontalTextAlignment="Center" VerticalTextAlignment="Center"/>
+                    <Label Text="Heure de fin" Grid.Row="2" Grid.Column="3" HorizontalTextAlignment="Center" VerticalTextAlignment="Center"/>
+
+                    <Label Text="{Binding NomPatrouilleur2}" Grid.Row="3" Grid.Column="0" HorizontalTextAlignment="Center" VerticalTextAlignment="Center"/>
+                    <Label Text="{Binding AffichageHeureFin}" Grid.Row="3" Grid.Column="3" HorizontalTextAlignment="Center" VerticalTextAlignment="Center"/>
+
+                </Grid>
+
+                <Grid>
+
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="35"/>
+                    </Grid.RowDefinitions>
+
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="*"/>
+                    </Grid.ColumnDefinitions>
+
+                    <Label Text="La route route est en agglomération" Grid.Row="0" Grid.Column="0" FontSize="15" HorizontalTextAlignment="End" VerticalTextAlignment="Center"/>
+                    <Switch IsToggled="{Binding AgglomerationSelectionne}" Grid.Row="0" Grid.Column="1" HorizontalOptions="Start" VerticalOptions="Center"/>
+
+                </Grid>
+
+                <Grid>
+
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="35"/>
+                    </Grid.RowDefinitions>
+
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="*"/>
+                    </Grid.ColumnDefinitions>
+
+                    <Label Text="La position de l'événement est une section de route" Grid.Row="0" Grid.Column="0" FontSize="15" HorizontalTextAlignment="End" VerticalTextAlignment="Center"/>
+                    <Switch IsToggled="{Binding EstUneSectionSelectionne}" Grid.Row="0" Grid.Column="1" HorizontalOptions="Start" VerticalOptions="Center"/>
+
+                </Grid>
+
+                <Grid>
+
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="35"/>
+                        <RowDefinition Height="35"/>
+                        <RowDefinition Height="35"/>
+                    </Grid.RowDefinitions>
+
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="*"/>
+                    </Grid.ColumnDefinitions>
+
+                    <Label Text="Position de début" Grid.Row="0" Grid.Column="1" FontSize="15" HorizontalTextAlignment="Center" VerticalTextAlignment="Center"/>
+                    <Label Text="Position de fin" Grid.Row="0" Grid.Column="3" FontSize="15" HorizontalTextAlignment="Center" VerticalTextAlignment="Center"/>
+
+                    <Label Text="Pos X" Grid.Row="1" Grid.Column="0" FontSize="15" HorizontalTextAlignment="Center" VerticalTextAlignment="Center"/>
+                    <Label Text="Pos Y" Grid.Row="2" Grid.Column="0" FontSize="15" HorizontalTextAlignment="Center" VerticalTextAlignment="Center"/>
+                    <Entry Text="{Binding Abscisse_1_Selectionne}" Grid.Row="1" Grid.Column="1"/>
+                    <Entry Text="{Binding Abscisse_2_Selectionne}" Grid.Row="2" Grid.Column="1"/>
+
+                    <Label Text="Pos X" Grid.Row="1" Grid.Column="2" FontSize="15" HorizontalTextAlignment="Center" VerticalTextAlignment="Center"/>
+                    <Label Text="Pos Y" Grid.Row="2" Grid.Column="2" FontSize="15" HorizontalTextAlignment="Center" VerticalTextAlignment="Center"/>
+                    <Entry Text="{Binding Section_1_Selectionne}" IsEnabled="{Binding EstUneSection}" Grid.Row="1" Grid.Column="3"/>
+                    <Entry Text="{Binding Section_2_Selectionne}" IsEnabled="{Binding EstUneSection}" Grid.Row="2" Grid.Column="3"/>
+
+                </Grid>
+
+                <Label Text="Météo" Grid.Row="0" Grid.Column="0" FontSize="15"/>
+                <Picker Grid.Row="1" Grid.Column="0" ItemsSource="{Binding ObtenirMeteo}" SelectedItem="{Binding MeteoSelectionne}" />
+
+                <Label Text="Choisissez un emplacement" FontSize="15"/>
+                <Picker ItemsSource="{Binding ObtenirEmplacement}" SelectedItem="{Binding EmplacementSelectionne}" />
+
+                <Label Text="Choisissez un type d'événement" FontSize="15"/>
+                <Picker ItemsSource="{Binding ObtenirTypeEvenement}" SelectedItem="{Binding EvenementTypeSelectionne}" />
+
+                <Label Text="Choisissez une dégradation" FontSize="15"/>
+                <Picker ItemsSource="{Binding ObtenirDegradationEvenement}" SelectedItem="{Binding EvenementDegradationSelectionne}" IsEnabled="{Binding DegradationEvenementSelectionnable}" />
+
+                <Label Text="Renseigner la dégradation" FontSize="15" IsVisible="{Binding AutreDegradationDisponible}"/>
+                <Entry Text="{Binding EvenementDegradationAutre}" IsVisible="{Binding AutreDegradationDisponible}"/>
+
+                <StackLayout>
+                    <ListView ItemsSource="{Binding ObtenirLesActions}" HasUnevenRows="True">
+                        <ListView.ItemTemplate>
+                            <DataTemplate>
+                                <ViewCell>
+                                    <StackLayout Spacing="0" Margin="0, 5, 0, 0">
+                                        <Grid>
+
+                                            <Grid.RowDefinitions>
+                                                <RowDefinition Height="35"/>
+                                            </Grid.RowDefinitions>
+
+                                            <Grid.ColumnDefinitions>
+                                                <ColumnDefinition Width="*"/>
+                                                <ColumnDefinition Width="*"/>
+                                            </Grid.ColumnDefinitions>
+
+                                            <Label Text="{Binding NomAction}" Grid.Row="0" Grid.Column="0" FontSize="15" HorizontalTextAlignment="End" VerticalTextAlignment="Center"/>
+                                            <Switch IsToggled="{Binding Active}" Grid.Row="0" Grid.Column="1" HorizontalOptions="Start" VerticalOptions="Center"/>
+
+                                        </Grid>
+                                    </StackLayout>
+                                </ViewCell>
+                            </DataTemplate>
+                        </ListView.ItemTemplate>
+                    </ListView>
+                </StackLayout>
+
+                <Grid>
+
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="40"/>
+                    </Grid.RowDefinitions>
+
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="*"/>
+                    </Grid.ColumnDefinitions>
+
+                    <Button x:Name="BoutonAnnulation" Grid.Row="0" Grid.Column="0" Text="Annulation" IsEnabled="True" Command="{Binding PagePrecedente}"/>
+                    <Button x:Name="BoutonPrisePhoto" Grid.Row="0" Grid.Column="1" Text="Prendre une photo" IsEnabled="False"/>
+                    <Button x:Name="BoutonValidation" Grid.Row="0" Grid.Column="2" Text="Validé l'évenement" IsEnabled="{Binding EstValidable}" Command="{Binding Valider}"/>
+
+                </Grid>
+
+            </StackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>

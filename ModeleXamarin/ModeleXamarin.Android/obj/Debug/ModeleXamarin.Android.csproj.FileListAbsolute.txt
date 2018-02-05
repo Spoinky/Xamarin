@@ -1,0 +1,2 @@
+C:\Users\svc_applis\Desktop\Patrouilleur\ModeleXamarin\ModeleXamarin.Android\obj\Debug\ModeleXamarin.Android.csprojResolveAssemblyReference.cache
+C:\Users\svc_applis\Desktop\Patrouilleur\ModeleXamarin\ModeleXamarin.Android\obj\Debug\ModeleXamarin.Android.csproj.CoreCompileInputs.cache
