@@ -45,6 +45,8 @@
             
             <Button Text="Passer à la selection de l'itinéraire" IsEnabled="{Binding EstValidable}" Command="{Binding Valider}" />
 
+            <Button Text="Test MAJ" Command="{Binding Valider}" />
+
         </StackLayout>
 
     </ContentPage.Content>

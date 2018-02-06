@@ -11,8 +11,8 @@
 namespace ModeleXamarin.vues.patrouilleur {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("C:\\Users\\svc_applis\\Desktop\\Patrouilleur\\ModeleXamarin\\ModeleXamarin\\vues\\patroui" +
-        "lleur\\Identification.xaml")]
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("C:\\Departement77\\Développements\\Projets\\Xamarin\\ModeleXamarin\\ModeleXamarin\\vues\\" +
+        "patrouilleur\\Identification.xaml")]
     public partial class Identification : global::Xamarin.Forms.ContentPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]

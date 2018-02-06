@@ -783,11 +783,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\svc_applis\\Desktop\\Patrouilleur V1.0\\ModeleXamarin\\ModeleXamarin.Android\\ModeleXamarin.Android.csproj",
+      "projectUniqueName": "C:\\Departement77\\Développements\\Projets\\Xamarin\\ModeleXamarin\\ModeleXamarin.Android\\ModeleXamarin.Android.csproj",
       "projectName": "ModeleXamarin.Android",
-      "projectPath": "C:\\Users\\svc_applis\\Desktop\\Patrouilleur V1.0\\ModeleXamarin\\ModeleXamarin.Android\\ModeleXamarin.Android.csproj",
+      "projectPath": "C:\\Departement77\\Développements\\Projets\\Xamarin\\ModeleXamarin\\ModeleXamarin.Android\\ModeleXamarin.Android.csproj",
       "packagesPath": "C:\\Users\\svc_applis\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\svc_applis\\Desktop\\Patrouilleur V1.0\\ModeleXamarin\\ModeleXamarin.Android\\obj\\",
+      "outputPath": "C:\\Departement77\\Développements\\Projets\\Xamarin\\ModeleXamarin\\ModeleXamarin.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -808,8 +808,8 @@
       "frameworks": {
         "monoandroid71": {
           "projectReferences": {
-            "C:\\Users\\svc_applis\\Desktop\\Patrouilleur V1.0\\ModeleXamarin\\ModeleXamarin\\ModeleXamarin.csproj": {
-              "projectPath": "C:\\Users\\svc_applis\\Desktop\\Patrouilleur V1.0\\ModeleXamarin\\ModeleXamarin\\ModeleXamarin.csproj"
+            "C:\\Departement77\\Développements\\Projets\\Xamarin\\ModeleXamarin\\ModeleXamarin\\ModeleXamarin.csproj": {
+              "projectPath": "C:\\Departement77\\Développements\\Projets\\Xamarin\\ModeleXamarin\\ModeleXamarin\\ModeleXamarin.csproj"
             }
           }
         }

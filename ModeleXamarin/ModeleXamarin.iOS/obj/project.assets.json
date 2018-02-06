@@ -878,11 +878,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\svc_applis\\Desktop\\Patrouilleur V1.0\\ModeleXamarin\\ModeleXamarin.iOS\\ModeleXamarin.iOS.csproj",
+      "projectUniqueName": "C:\\Departement77\\Développements\\Projets\\Xamarin\\ModeleXamarin\\ModeleXamarin.iOS\\ModeleXamarin.iOS.csproj",
       "projectName": "ModeleXamarin.iOS",
-      "projectPath": "C:\\Users\\svc_applis\\Desktop\\Patrouilleur V1.0\\ModeleXamarin\\ModeleXamarin.iOS\\ModeleXamarin.iOS.csproj",
+      "projectPath": "C:\\Departement77\\Développements\\Projets\\Xamarin\\ModeleXamarin\\ModeleXamarin.iOS\\ModeleXamarin.iOS.csproj",
       "packagesPath": "C:\\Users\\svc_applis\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\svc_applis\\Desktop\\Patrouilleur V1.0\\ModeleXamarin\\ModeleXamarin.iOS\\obj\\",
+      "outputPath": "C:\\Departement77\\Développements\\Projets\\Xamarin\\ModeleXamarin\\ModeleXamarin.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -903,8 +903,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\Users\\svc_applis\\Desktop\\Patrouilleur V1.0\\ModeleXamarin\\ModeleXamarin\\ModeleXamarin.csproj": {
-              "projectPath": "C:\\Users\\svc_applis\\Desktop\\Patrouilleur V1.0\\ModeleXamarin\\ModeleXamarin\\ModeleXamarin.csproj"
+            "C:\\Departement77\\Développements\\Projets\\Xamarin\\ModeleXamarin\\ModeleXamarin\\ModeleXamarin.csproj": {
+              "projectPath": "C:\\Departement77\\Développements\\Projets\\Xamarin\\ModeleXamarin\\ModeleXamarin\\ModeleXamarin.csproj"
             }
           }
         }

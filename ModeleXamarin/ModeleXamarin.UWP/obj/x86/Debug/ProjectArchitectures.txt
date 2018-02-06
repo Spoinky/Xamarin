@@ -1,1 +1,1 @@
-C:\Users\svc_applis\Desktop\Patrouilleur V1.0\ModeleXamarin\ModeleXamarin.UWP\ModeleXamarin.UWP.csproj;x86
+C:\Departement77\Développements\Projets\Xamarin\ModeleXamarin\ModeleXamarin.UWP\ModeleXamarin.UWP.csproj;x86

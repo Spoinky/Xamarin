@@ -125,3 +125,18 @@ C:\Users\svc_applis\Desktop\Patrouilleur V1.0\ModeleXamarin\ModeleXamarin\obj\De
 C:\Users\svc_applis\Desktop\Patrouilleur V1.0\ModeleXamarin\ModeleXamarin\obj\Debug\netstandard2.0\ModeleXamarin.AssemblyInfo.cs
 C:\Users\svc_applis\Desktop\Patrouilleur V1.0\ModeleXamarin\ModeleXamarin\obj\Debug\netstandard2.0\ModeleXamarin.dll
 C:\Users\svc_applis\Desktop\Patrouilleur V1.0\ModeleXamarin\ModeleXamarin\obj\Debug\netstandard2.0\ModeleXamarin.pdb
+C:\Departement77\Développements\Projets\Xamarin\ModeleXamarin\ModeleXamarin\bin\Debug\netstandard2.0\ModeleXamarin.deps.json
+C:\Departement77\Développements\Projets\Xamarin\ModeleXamarin\ModeleXamarin\bin\Debug\netstandard2.0\ModeleXamarin.dll
+C:\Departement77\Développements\Projets\Xamarin\ModeleXamarin\ModeleXamarin\bin\Debug\netstandard2.0\ModeleXamarin.pdb
+C:\Departement77\Développements\Projets\Xamarin\ModeleXamarin\ModeleXamarin\obj\Debug\netstandard2.0\ModeleXamarin.csprojResolveAssemblyReference.cache
+C:\Departement77\Développements\Projets\Xamarin\ModeleXamarin\ModeleXamarin\obj\Debug\netstandard2.0\ModeleXamarin.csproj.CoreCompileInputs.cache
+C:\Departement77\Développements\Projets\Xamarin\ModeleXamarin\ModeleXamarin\obj\Debug\netstandard2.0\ModeleXamarin.App.xaml.g.cs
+C:\Departement77\Développements\Projets\Xamarin\ModeleXamarin\ModeleXamarin\obj\Debug\netstandard2.0\ModeleXamarin.MainPage.xaml.g.cs
+C:\Departement77\Développements\Projets\Xamarin\ModeleXamarin\ModeleXamarin\obj\Debug\netstandard2.0\ModeleXamarin.vues.patrouilleur.EtatPatrouillage.xaml.g.cs
+C:\Departement77\Développements\Projets\Xamarin\ModeleXamarin\ModeleXamarin\obj\Debug\netstandard2.0\ModeleXamarin.vues.patrouilleur.EvenementPatrouillage.xaml.g.cs
+C:\Departement77\Développements\Projets\Xamarin\ModeleXamarin\ModeleXamarin\obj\Debug\netstandard2.0\ModeleXamarin.vues.patrouilleur.Identification.xaml.g.cs
+C:\Departement77\Développements\Projets\Xamarin\ModeleXamarin\ModeleXamarin\obj\Debug\netstandard2.0\ModeleXamarin.vues.patrouilleur.SelectionRoutes.xaml.g.cs
+C:\Departement77\Développements\Projets\Xamarin\ModeleXamarin\ModeleXamarin\obj\Debug\netstandard2.0\ModeleXamarin.AssemblyInfoInputs.cache
+C:\Departement77\Développements\Projets\Xamarin\ModeleXamarin\ModeleXamarin\obj\Debug\netstandard2.0\ModeleXamarin.AssemblyInfo.cs
+C:\Departement77\Développements\Projets\Xamarin\ModeleXamarin\ModeleXamarin\obj\Debug\netstandard2.0\ModeleXamarin.dll
+C:\Departement77\Développements\Projets\Xamarin\ModeleXamarin\ModeleXamarin\obj\Debug\netstandard2.0\ModeleXamarin.pdb

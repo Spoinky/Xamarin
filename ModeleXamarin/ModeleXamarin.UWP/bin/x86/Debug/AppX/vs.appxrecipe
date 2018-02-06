@@ -9,8 +9,8 @@
     <SolutionConfiguration>Debug|x86</SolutionConfiguration>
     <PackageArchitecture>x86</PackageArchitecture>
     <PackageIdentityName>ec0cc741-fd3e-485c-81be-68815c480690</PackageIdentityName>
-    <PackageIdentityPublisher>CN=Pierce Boggan</PackageIdentityPublisher>
-    <IntermediateOutputPath>C:\Users\svc_applis\Desktop\Patrouilleur V1.0\ModeleXamarin\ModeleXamarin.UWP\obj\x86\Debug\</IntermediateOutputPath>
+    <PackageIdentityPublisher>CN=joaqu</PackageIdentityPublisher>
+    <IntermediateOutputPath>C:\Departement77\Développements\Projets\Xamarin\ModeleXamarin\ModeleXamarin.UWP\obj\x86\Debug\</IntermediateOutputPath>
     <RemoteDeploymentType>
     </RemoteDeploymentType>
     <PackageRegistrationPath>
@@ -18,26 +18,26 @@
     <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
-    <LayoutDir>C:\Users\svc_applis\Desktop\Patrouilleur V1.0\ModeleXamarin\ModeleXamarin.UWP\bin\x86\Debug\AppX</LayoutDir>
-    <RegisteredManifestChecksum>01715F848A242EBEA7A2A722D701FE22B5E11F1BE657CCCED2F30F743E37C6C6</RegisteredManifestChecksum>
-    <RegisteredPackageMoniker>ec0cc741-fd3e-485c-81be-68815c480690_1.0.0.0_x86__hma5z8g0e8z20</RegisteredPackageMoniker>
-    <RegisteredUserModeAppID>ec0cc741-fd3e-485c-81be-68815c480690_hma5z8g0e8z20!App</RegisteredUserModeAppID>
+    <LayoutDir>C:\Departement77\Développements\Projets\Xamarin\ModeleXamarin\ModeleXamarin.UWP\bin\x86\Debug\AppX</LayoutDir>
+    <RegisteredManifestChecksum>24F08A1F4F74976C37763D14DDCF46E2043A551A39227F8F091ECD7732C62D48</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>ec0cc741-fd3e-485c-81be-68815c480690_1.0.0.0_x86__nh7s0b45jarrj</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>ec0cc741-fd3e-485c-81be-68815c480690_nh7s0b45jarrj!App</RegisteredUserModeAppID>
     <RegisteredPackageID>ec0cc741-fd3e-485c-81be-68815c480690</RegisteredPackageID>
-    <RegisteredPackagePublisher>CN=Pierce Boggan</RegisteredPackagePublisher>
+    <RegisteredPackagePublisher>CN=joaqu</RegisteredPackagePublisher>
     <RegisteredVersion>1.0.0.0</RegisteredVersion>
     <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\svc_applis\Desktop\Patrouilleur V1.0\ModeleXamarin\ModeleXamarin.UWP\bin\x86\Debug\Core\AppxManifest.xml">
+    <AppXManifest Include="C:\Departement77\Développements\Projets\Xamarin\ModeleXamarin\ModeleXamarin.UWP\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-02-05T09:25:40.993</Modified>
+      <Modified>2018-02-06T10:44:01.817</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\svc_applis\Desktop\Patrouilleur V1.0\ModeleXamarin\ModeleXamarin.UWP\bin\x86\Debug\ModeleXamarin.UWP.exe">
+    <AppxPackagedFile Include="C:\Departement77\Développements\Projets\Xamarin\ModeleXamarin\ModeleXamarin.UWP\bin\x86\Debug\ModeleXamarin.UWP.exe">
       <PackagePath>entrypoint\ModeleXamarin.UWP.exe</PackagePath>
-      <Modified>2018-02-05T09:25:38.759</Modified>
+      <Modified>2018-02-06T10:44:00.411</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\svc_applis\.nuget\packages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.0.5\runtimes\win10-x86\nativeassets\uap10.0.15138\clrcompression.dll">
       <PackagePath>clrcompression.dll</PackagePath>
@@ -715,171 +715,171 @@
       <PackagePath>Xamarin.Forms.Xaml.dll</PackagePath>
       <Modified>2017-11-28T01:07:38.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\svc_applis\Desktop\Patrouilleur V1.0\ModeleXamarin\ModeleXamarin\bin\Debug\netstandard2.0\ModeleXamarin.dll">
+    <AppxPackagedFile Include="C:\Departement77\Développements\Projets\Xamarin\ModeleXamarin\ModeleXamarin\bin\Debug\netstandard2.0\ModeleXamarin.dll">
       <PackagePath>ModeleXamarin.dll</PackagePath>
-      <Modified>2018-02-05T09:25:33.118</Modified>
+      <Modified>2018-02-05T13:21:19.739</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\svc_applis\Desktop\Patrouilleur V1.0\ModeleXamarin\ModeleXamarin.UWP\bin\x86\Debug\Mono.Data.Sqlite.dll">
+    <AppxPackagedFile Include="C:\Departement77\Développements\Projets\Xamarin\ModeleXamarin\ModeleXamarin.UWP\bin\x86\Debug\Mono.Data.Sqlite.dll">
       <PackagePath>Mono.Data.Sqlite.dll</PackagePath>
-      <Modified>2017-12-24T23:41:37.908</Modified>
+      <Modified>2018-02-05T13:11:25.478</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\svc_applis\Desktop\Patrouilleur V1.0\ModeleXamarin\ModeleXamarin.UWP\Properties\Default.rd.xml">
+    <AppxPackagedFile Include="C:\Departement77\Développements\Projets\Xamarin\ModeleXamarin\ModeleXamarin.UWP\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
-      <Modified>2017-12-21T12:19:30.000</Modified>
+      <Modified>2018-02-05T13:11:25.072</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\svc_applis\Desktop\Patrouilleur V1.0\ModeleXamarin\ModeleXamarin.UWP\Assets\LockScreenLogo.scale-100.png">
+    <AppxPackagedFile Include="C:\Departement77\Développements\Projets\Xamarin\ModeleXamarin\ModeleXamarin.UWP\Assets\LockScreenLogo.scale-100.png">
       <PackagePath>Assets\LockScreenLogo.scale-100.png</PackagePath>
-      <Modified>2017-12-21T12:19:28.000</Modified>
+      <Modified>2018-02-05T13:11:25.056</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\svc_applis\Desktop\Patrouilleur V1.0\ModeleXamarin\ModeleXamarin.UWP\Assets\LockScreenLogo.scale-125.png">
+    <AppxPackagedFile Include="C:\Departement77\Développements\Projets\Xamarin\ModeleXamarin\ModeleXamarin.UWP\Assets\LockScreenLogo.scale-125.png">
       <PackagePath>Assets\LockScreenLogo.scale-125.png</PackagePath>
-      <Modified>2017-12-21T12:19:28.000</Modified>
+      <Modified>2018-02-05T13:11:25.056</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\svc_applis\Desktop\Patrouilleur V1.0\ModeleXamarin\ModeleXamarin.UWP\Assets\LockScreenLogo.scale-150.png">
+    <AppxPackagedFile Include="C:\Departement77\Développements\Projets\Xamarin\ModeleXamarin\ModeleXamarin.UWP\Assets\LockScreenLogo.scale-150.png">
       <PackagePath>Assets\LockScreenLogo.scale-150.png</PackagePath>
-      <Modified>2017-12-21T12:19:28.000</Modified>
+      <Modified>2018-02-05T13:11:25.056</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\svc_applis\Desktop\Patrouilleur V1.0\ModeleXamarin\ModeleXamarin.UWP\Assets\LockScreenLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Departement77\Développements\Projets\Xamarin\ModeleXamarin\ModeleXamarin.UWP\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
-      <Modified>2017-12-21T12:19:28.000</Modified>
+      <Modified>2018-02-05T13:11:25.056</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\svc_applis\Desktop\Patrouilleur V1.0\ModeleXamarin\ModeleXamarin.UWP\Assets\LockScreenLogo.scale-400.png">
+    <AppxPackagedFile Include="C:\Departement77\Développements\Projets\Xamarin\ModeleXamarin\ModeleXamarin.UWP\Assets\LockScreenLogo.scale-400.png">
       <PackagePath>Assets\LockScreenLogo.scale-400.png</PackagePath>
-      <Modified>2017-12-21T12:19:30.000</Modified>
+      <Modified>2018-02-05T13:11:25.056</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\svc_applis\Desktop\Patrouilleur V1.0\ModeleXamarin\ModeleXamarin.UWP\Assets\SplashScreen.scale-100.png">
+    <AppxPackagedFile Include="C:\Departement77\Développements\Projets\Xamarin\ModeleXamarin\ModeleXamarin.UWP\Assets\SplashScreen.scale-100.png">
       <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-12-21T12:19:30.000</Modified>
+      <Modified>2018-02-05T13:11:25.056</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\svc_applis\Desktop\Patrouilleur V1.0\ModeleXamarin\ModeleXamarin.UWP\Assets\SplashScreen.scale-125.png">
+    <AppxPackagedFile Include="C:\Departement77\Développements\Projets\Xamarin\ModeleXamarin\ModeleXamarin.UWP\Assets\SplashScreen.scale-125.png">
       <PackagePath>Assets\SplashScreen.scale-125.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-12-21T12:19:30.000</Modified>
+      <Modified>2018-02-05T13:11:25.056</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\svc_applis\Desktop\Patrouilleur V1.0\ModeleXamarin\ModeleXamarin.UWP\Assets\SplashScreen.scale-150.png">
+    <AppxPackagedFile Include="C:\Departement77\Développements\Projets\Xamarin\ModeleXamarin\ModeleXamarin.UWP\Assets\SplashScreen.scale-150.png">
       <PackagePath>Assets\SplashScreen.scale-150.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-12-21T12:19:30.000</Modified>
+      <Modified>2018-02-05T13:11:25.056</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\svc_applis\Desktop\Patrouilleur V1.0\ModeleXamarin\ModeleXamarin.UWP\Assets\SplashScreen.scale-200.png">
+    <AppxPackagedFile Include="C:\Departement77\Développements\Projets\Xamarin\ModeleXamarin\ModeleXamarin.UWP\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-12-21T12:19:30.000</Modified>
+      <Modified>2018-02-05T13:11:25.056</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\svc_applis\Desktop\Patrouilleur V1.0\ModeleXamarin\ModeleXamarin.UWP\Assets\SplashScreen.scale-400.png">
+    <AppxPackagedFile Include="C:\Departement77\Développements\Projets\Xamarin\ModeleXamarin\ModeleXamarin.UWP\Assets\SplashScreen.scale-400.png">
       <PackagePath>Assets\SplashScreen.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-12-21T12:19:30.000</Modified>
+      <Modified>2018-02-05T13:11:25.056</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\svc_applis\Desktop\Patrouilleur V1.0\ModeleXamarin\ModeleXamarin.UWP\Assets\Square150x150Logo.scale-100.png">
+    <AppxPackagedFile Include="C:\Departement77\Développements\Projets\Xamarin\ModeleXamarin\ModeleXamarin.UWP\Assets\Square150x150Logo.scale-100.png">
       <PackagePath>Assets\Square150x150Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-12-21T12:19:30.000</Modified>
+      <Modified>2018-02-05T13:11:25.056</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\svc_applis\Desktop\Patrouilleur V1.0\ModeleXamarin\ModeleXamarin.UWP\Assets\Square150x150Logo.scale-125.png">
+    <AppxPackagedFile Include="C:\Departement77\Développements\Projets\Xamarin\ModeleXamarin\ModeleXamarin.UWP\Assets\Square150x150Logo.scale-125.png">
       <PackagePath>Assets\Square150x150Logo.scale-125.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-12-21T12:19:30.000</Modified>
+      <Modified>2018-02-05T13:11:25.056</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\svc_applis\Desktop\Patrouilleur V1.0\ModeleXamarin\ModeleXamarin.UWP\Assets\Square150x150Logo.scale-150.png">
+    <AppxPackagedFile Include="C:\Departement77\Développements\Projets\Xamarin\ModeleXamarin\ModeleXamarin.UWP\Assets\Square150x150Logo.scale-150.png">
       <PackagePath>Assets\Square150x150Logo.scale-150.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-12-21T12:19:30.000</Modified>
+      <Modified>2018-02-05T13:11:25.056</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\svc_applis\Desktop\Patrouilleur V1.0\ModeleXamarin\ModeleXamarin.UWP\Assets\Square150x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Departement77\Développements\Projets\Xamarin\ModeleXamarin\ModeleXamarin.UWP\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-12-21T12:19:30.000</Modified>
+      <Modified>2018-02-05T13:11:25.056</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\svc_applis\Desktop\Patrouilleur V1.0\ModeleXamarin\ModeleXamarin.UWP\Assets\Square150x150Logo.scale-400.png">
+    <AppxPackagedFile Include="C:\Departement77\Développements\Projets\Xamarin\ModeleXamarin\ModeleXamarin.UWP\Assets\Square150x150Logo.scale-400.png">
       <PackagePath>Assets\Square150x150Logo.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-12-21T12:19:30.000</Modified>
+      <Modified>2018-02-05T13:11:25.056</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\svc_applis\Desktop\Patrouilleur V1.0\ModeleXamarin\ModeleXamarin.UWP\Assets\Square44x44Logo.scale-100.png">
+    <AppxPackagedFile Include="C:\Departement77\Développements\Projets\Xamarin\ModeleXamarin\ModeleXamarin.UWP\Assets\Square44x44Logo.scale-100.png">
       <PackagePath>Assets\Square44x44Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-12-21T12:19:30.000</Modified>
+      <Modified>2018-02-05T13:11:25.056</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\svc_applis\Desktop\Patrouilleur V1.0\ModeleXamarin\ModeleXamarin.UWP\Assets\Square44x44Logo.scale-125.png">
+    <AppxPackagedFile Include="C:\Departement77\Développements\Projets\Xamarin\ModeleXamarin\ModeleXamarin.UWP\Assets\Square44x44Logo.scale-125.png">
       <PackagePath>Assets\Square44x44Logo.scale-125.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-12-21T12:19:30.000</Modified>
+      <Modified>2018-02-05T13:11:25.056</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\svc_applis\Desktop\Patrouilleur V1.0\ModeleXamarin\ModeleXamarin.UWP\Assets\Square44x44Logo.scale-150.png">
+    <AppxPackagedFile Include="C:\Departement77\Développements\Projets\Xamarin\ModeleXamarin\ModeleXamarin.UWP\Assets\Square44x44Logo.scale-150.png">
       <PackagePath>Assets\Square44x44Logo.scale-150.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-12-21T12:19:30.000</Modified>
+      <Modified>2018-02-05T13:11:25.056</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\svc_applis\Desktop\Patrouilleur V1.0\ModeleXamarin\ModeleXamarin.UWP\Assets\Square44x44Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Departement77\Développements\Projets\Xamarin\ModeleXamarin\ModeleXamarin.UWP\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-12-21T12:19:30.000</Modified>
+      <Modified>2018-02-05T13:11:25.072</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\svc_applis\Desktop\Patrouilleur V1.0\ModeleXamarin\ModeleXamarin.UWP\Assets\Square44x44Logo.scale-400.png">
+    <AppxPackagedFile Include="C:\Departement77\Développements\Projets\Xamarin\ModeleXamarin\ModeleXamarin.UWP\Assets\Square44x44Logo.scale-400.png">
       <PackagePath>Assets\Square44x44Logo.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-12-21T12:19:30.000</Modified>
+      <Modified>2018-02-05T13:11:25.072</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\svc_applis\Desktop\Patrouilleur V1.0\ModeleXamarin\ModeleXamarin.UWP\Assets\Square44x44Logo.targetsize-16_altform-unplated.png">
+    <AppxPackagedFile Include="C:\Departement77\Développements\Projets\Xamarin\ModeleXamarin\ModeleXamarin.UWP\Assets\Square44x44Logo.targetsize-16_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-16_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-12-21T12:19:30.000</Modified>
+      <Modified>2018-02-05T13:11:25.072</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\svc_applis\Desktop\Patrouilleur V1.0\ModeleXamarin\ModeleXamarin.UWP\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+    <AppxPackagedFile Include="C:\Departement77\Développements\Projets\Xamarin\ModeleXamarin\ModeleXamarin.UWP\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-12-21T12:19:30.000</Modified>
+      <Modified>2018-02-05T13:11:25.072</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\svc_applis\Desktop\Patrouilleur V1.0\ModeleXamarin\ModeleXamarin.UWP\Assets\Square44x44Logo.targetsize-32_altform-unplated.png">
+    <AppxPackagedFile Include="C:\Departement77\Développements\Projets\Xamarin\ModeleXamarin\ModeleXamarin.UWP\Assets\Square44x44Logo.targetsize-32_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-32_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-12-21T12:19:30.000</Modified>
+      <Modified>2018-02-05T13:11:25.072</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\svc_applis\Desktop\Patrouilleur V1.0\ModeleXamarin\ModeleXamarin.UWP\Assets\Square44x44Logo.targetsize-48_altform-unplated.png">
+    <AppxPackagedFile Include="C:\Departement77\Développements\Projets\Xamarin\ModeleXamarin\ModeleXamarin.UWP\Assets\Square44x44Logo.targetsize-48_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-48_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-12-21T12:19:30.000</Modified>
+      <Modified>2018-02-05T13:11:25.072</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\svc_applis\Desktop\Patrouilleur V1.0\ModeleXamarin\ModeleXamarin.UWP\Assets\Square44x44Logo.targetsize-256_altform-unplated.png">
+    <AppxPackagedFile Include="C:\Departement77\Développements\Projets\Xamarin\ModeleXamarin\ModeleXamarin.UWP\Assets\Square44x44Logo.targetsize-256_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-256_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-12-21T12:19:30.000</Modified>
+      <Modified>2018-02-05T13:11:25.072</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\svc_applis\Desktop\Patrouilleur V1.0\ModeleXamarin\ModeleXamarin.UWP\Assets\StoreLogo.png">
+    <AppxPackagedFile Include="C:\Departement77\Développements\Projets\Xamarin\ModeleXamarin\ModeleXamarin.UWP\Assets\StoreLogo.png">
       <PackagePath>Assets\StoreLogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-12-21T12:19:30.000</Modified>
+      <Modified>2018-02-05T13:11:25.072</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\svc_applis\Desktop\Patrouilleur V1.0\ModeleXamarin\ModeleXamarin.UWP\Assets\Wide310x150Logo.scale-100.png">
+    <AppxPackagedFile Include="C:\Departement77\Développements\Projets\Xamarin\ModeleXamarin\ModeleXamarin.UWP\Assets\Wide310x150Logo.scale-100.png">
       <PackagePath>Assets\Wide310x150Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-12-21T12:19:30.000</Modified>
+      <Modified>2018-02-05T13:11:25.072</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\svc_applis\Desktop\Patrouilleur V1.0\ModeleXamarin\ModeleXamarin.UWP\Assets\Wide310x150Logo.scale-125.png">
+    <AppxPackagedFile Include="C:\Departement77\Développements\Projets\Xamarin\ModeleXamarin\ModeleXamarin.UWP\Assets\Wide310x150Logo.scale-125.png">
       <PackagePath>Assets\Wide310x150Logo.scale-125.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-12-21T12:19:30.000</Modified>
+      <Modified>2018-02-05T13:11:25.072</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\svc_applis\Desktop\Patrouilleur V1.0\ModeleXamarin\ModeleXamarin.UWP\Assets\Wide310x150Logo.scale-150.png">
+    <AppxPackagedFile Include="C:\Departement77\Développements\Projets\Xamarin\ModeleXamarin\ModeleXamarin.UWP\Assets\Wide310x150Logo.scale-150.png">
       <PackagePath>Assets\Wide310x150Logo.scale-150.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-12-21T12:19:30.000</Modified>
+      <Modified>2018-02-05T13:11:25.072</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\svc_applis\Desktop\Patrouilleur V1.0\ModeleXamarin\ModeleXamarin.UWP\Assets\Wide310x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Departement77\Développements\Projets\Xamarin\ModeleXamarin\ModeleXamarin.UWP\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-12-21T12:19:30.000</Modified>
+      <Modified>2018-02-05T13:11:25.072</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\svc_applis\Desktop\Patrouilleur V1.0\ModeleXamarin\ModeleXamarin.UWP\Assets\Wide310x150Logo.scale-400.png">
+    <AppxPackagedFile Include="C:\Departement77\Développements\Projets\Xamarin\ModeleXamarin\ModeleXamarin.UWP\Assets\Wide310x150Logo.scale-400.png">
       <PackagePath>Assets\Wide310x150Logo.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-12-21T12:19:30.000</Modified>
+      <Modified>2018-02-05T13:11:25.072</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\svc_applis\Desktop\Patrouilleur V1.0\ModeleXamarin\ModeleXamarin.UWP\bin\x86\Debug\ModeleXamarin.UWP.xr.xml">
+    <AppxPackagedFile Include="C:\Departement77\Développements\Projets\Xamarin\ModeleXamarin\ModeleXamarin.UWP\bin\x86\Debug\ModeleXamarin.UWP.xr.xml">
       <PackagePath>ModeleXamarin.UWP.xr.xml</PackagePath>
-      <Modified>2017-12-25T15:28:26.000</Modified>
+      <Modified>2018-02-05T13:11:25.822</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.16299.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
@@ -889,14 +889,14 @@
       <PackagePath>Xamarin.Forms.Platform.UAP\Xamarin.Forms.Platform.UAP.xr.xml</PackagePath>
       <Modified>2017-11-28T01:07:38.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\svc_applis\Desktop\Patrouilleur V1.0\ModeleXamarin\ModeleXamarin.UWP\bin\x86\Debug\resources.pri">
+    <AppxPackagedFile Include="C:\Departement77\Développements\Projets\Xamarin\ModeleXamarin\ModeleXamarin.UWP\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-02-05T09:25:40.462</Modified>
+      <Modified>2018-02-06T10:44:01.282</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\svc_applis\Desktop\Patrouilleur V1.0\ModeleXamarin\ModeleXamarin.UWP\bin\x86\Debug\Core\ModeleXamarin.UWP.exe">
+    <AppxPackagedFile Include="C:\Departement77\Développements\Projets\Xamarin\ModeleXamarin\ModeleXamarin.UWP\bin\x86\Debug\Core\ModeleXamarin.UWP.exe">
       <PackagePath>ModeleXamarin.UWP.exe</PackagePath>
-      <Modified>2018-02-05T09:25:40.993</Modified>
+      <Modified>2018-02-06T10:44:01.810</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

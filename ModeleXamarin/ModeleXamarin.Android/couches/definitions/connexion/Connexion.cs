@@ -28,7 +28,7 @@ namespace ModeleXamarin.Droid.couches.definitions.connexion
         {
             get
             {
-                ConnectivityManager manager = (ConnectivityManager)Application.Context.GetSystemService(Context.ConnectivityService);
+                ConnectivityManager manager = (ConnectivityManager)Android.App.Application.Context.GetSystemService(Context.ConnectivityService);
                 NetworkInfo networkinfo = manager.ActiveNetworkInfo;
 
                 if (networkinfo == null)

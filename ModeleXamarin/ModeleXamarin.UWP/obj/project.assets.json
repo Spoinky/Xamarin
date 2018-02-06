@@ -6894,11 +6894,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\svc_applis\\Desktop\\Patrouilleur V1.0\\ModeleXamarin\\ModeleXamarin.UWP\\ModeleXamarin.UWP.csproj",
+      "projectUniqueName": "C:\\Departement77\\Développements\\Projets\\Xamarin\\ModeleXamarin\\ModeleXamarin.UWP\\ModeleXamarin.UWP.csproj",
       "projectName": "ModeleXamarin.UWP",
-      "projectPath": "C:\\Users\\svc_applis\\Desktop\\Patrouilleur V1.0\\ModeleXamarin\\ModeleXamarin.UWP\\ModeleXamarin.UWP.csproj",
+      "projectPath": "C:\\Departement77\\Développements\\Projets\\Xamarin\\ModeleXamarin\\ModeleXamarin.UWP\\ModeleXamarin.UWP.csproj",
       "packagesPath": "C:\\Users\\svc_applis\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\svc_applis\\Desktop\\Patrouilleur V1.0\\ModeleXamarin\\ModeleXamarin.UWP\\obj\\",
+      "outputPath": "C:\\Departement77\\Développements\\Projets\\Xamarin\\ModeleXamarin\\ModeleXamarin.UWP\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -6919,8 +6919,8 @@
       "frameworks": {
         "uap10.0.16299": {
           "projectReferences": {
-            "C:\\Users\\svc_applis\\Desktop\\Patrouilleur V1.0\\ModeleXamarin\\ModeleXamarin\\ModeleXamarin.csproj": {
-              "projectPath": "C:\\Users\\svc_applis\\Desktop\\Patrouilleur V1.0\\ModeleXamarin\\ModeleXamarin\\ModeleXamarin.csproj"
+            "C:\\Departement77\\Développements\\Projets\\Xamarin\\ModeleXamarin\\ModeleXamarin\\ModeleXamarin.csproj": {
+              "projectPath": "C:\\Departement77\\Développements\\Projets\\Xamarin\\ModeleXamarin\\ModeleXamarin\\ModeleXamarin.csproj"
             }
           }
         }

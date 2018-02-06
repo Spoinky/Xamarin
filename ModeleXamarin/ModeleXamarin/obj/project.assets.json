@@ -387,11 +387,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\svc_applis\\Desktop\\Patrouilleur V1.0\\ModeleXamarin\\ModeleXamarin\\ModeleXamarin.csproj",
+      "projectUniqueName": "C:\\Departement77\\Développements\\Projets\\Xamarin\\ModeleXamarin\\ModeleXamarin\\ModeleXamarin.csproj",
       "projectName": "ModeleXamarin",
-      "projectPath": "C:\\Users\\svc_applis\\Desktop\\Patrouilleur V1.0\\ModeleXamarin\\ModeleXamarin\\ModeleXamarin.csproj",
+      "projectPath": "C:\\Departement77\\Développements\\Projets\\Xamarin\\ModeleXamarin\\ModeleXamarin\\ModeleXamarin.csproj",
       "packagesPath": "C:\\Users\\svc_applis\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\svc_applis\\Desktop\\Patrouilleur V1.0\\ModeleXamarin\\ModeleXamarin\\obj\\",
+      "outputPath": "C:\\Departement77\\Développements\\Projets\\Xamarin\\ModeleXamarin\\ModeleXamarin\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
